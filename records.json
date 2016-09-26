@@ -1,102 +1,124 @@
 [
     {
-        "Registration Date": "12-Oct-20",
         "Last Name": "Adams",
         "First Name": "Annie Mrs",
         "Birthdate": "2-Feb-1883",
-        "Occupation": "housewife",
-        "Address": "Lincolnia",
-        "Comments": "",
-        "Ward": "2",
-        "Precinct": "SEV"
+        "Registrations": [
+            {
+                "Registration Date": "12-Oct-20",
+                "Occupation": "housewife",
+                "Address": "Lincolnia",
+                "Comments": "",
+                "Ward": "2",
+                "Precinct": "SEV"
+            }
+        ]
     },
     {
-        "Registration Date": "5-Aug-14",
         "Last Name": "Adams",
         "First Name": "Clara",
         "Birthdate": "2-Jun-1865",
-        "Occupation": "housewife",
-        "Address": "Seminary",
-        "Comments": "",
-        "Ward": "2",
-        "Precinct": "SEV"
+        "Registrations": [
+            {
+                "Registration Date": "5-Aug-14",
+                "Occupation": "housewife",
+                "Address": "Seminary",
+                "Comments": "",
+                "Ward": "2",
+                "Precinct": "SEV"
+            }
+        ]
     },
     {
-        "Registration Date": "29-Mar-32",
         "Last Name": "Adkins",
         "First Name": "A W",
         "Birthdate": "26-Feb-1884",
-        "Occupation": "teacher",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "ODD"
+        "Registrations": [
+            {
+                "Registration Date": "29-Mar-32",
+                "Occupation": "teacher",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "ODD"
+            },
+            {
+                "Registration Date": "29-Mar-32",
+                "Occupation": "teacher",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "FIRE"
+            }
+        ]
     },
     {
-        "Registration Date": "29-Mar-32",
-        "Last Name": "Adkins",
-        "First Name": "A W",
-        "Birthdate": "26-Feb-1884",
-        "Occupation": "teacher",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "FIRE"
-    },
-    {
-        "Registration Date": "2-May-46",
         "Last Name": "Adkins",
         "First Name": "Aldrich W",
         "Birthdate": "22-Jul-1922",
-        "Occupation": "student",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "FIRE"
+        "Registrations": [
+            {
+                "Registration Date": "2-May-46",
+                "Occupation": "student",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "FIRE"
+            }
+        ]
     },
     {
-        "Registration Date": "29-Mar-32",
         "Last Name": "Adkins",
         "First Name": "Mattie H",
         "Birthdate": "10-Jan-1889",
-        "Occupation": "teacher",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "FIRE"
+        "Registrations": [
+            {
+                "Registration Date": "29-Mar-32",
+                "Occupation": "teacher",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "FIRE"
+            },
+            {
+                "Registration Date": "29-Mar-32",
+                "Occupation": "teacher",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "ODD"
+            }
+        ]
     },
     {
-        "Registration Date": "29-Mar-32",
-        "Last Name": "Adkins",
-        "First Name": "Mattie H",
-        "Birthdate": "10-Jan-1889",
-        "Occupation": "teacher",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "ODD"
-    },
-    {
-        "Registration Date": "18-Sep-47",
         "Last Name": "Adkins",
         "First Name": "Rutherford H",
         "Birthdate": "21-Nov-1924",
-        "Occupation": "student",
-        "Address": "816 Queen",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "FIRE"
+        "Registrations": [
+            {
+                "Registration Date": "18-Sep-47",
+                "Occupation": "student",
+                "Address": "816 Queen",
+                "Comments": "",
+                "Ward": "3",
+                "Precinct": "FIRE"
+            }
+        ]
     },
     {
-        "Registration Date": "2-Oct-20",
         "Last Name": "Allen",
         "First Name": "Clarence Preston",
         "Birthdate": "2-Aug-1887",
-        "Occupation": "janitor",
-        "Address": "315 First St",
-        "Comments": "",
-        "Ward": "1",
-        "Precinct": "CITY"
+        "Registrations": [
+            {
+                "Registration Date": "2-Oct-20",
+                "Occupation": "janitor",
+                "Address": "315 First St",
+                "Comments": "",
+                "Ward": "1",
+                "Precinct": "CITY"
+            }
+        ]
     },
     {
         "Registration Date": "15-Jul-44",
@@ -3514,7 +3536,7 @@
         "First Name": "Eva",
         "Birthdate": "24-Dec-1890",
         "Occupation": "domestic",
-        "Address": "632 S Columbus/813 Gibbon",
+        "Address": "632 S Columbus",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -3778,7 +3800,18 @@
         "First Name": "Connie B",
         "Birthdate": "1901",
         "Occupation": "housewife",
-        "Address": "521 N Royal/417 N Fayette",
+        "Address": "521 N Royal",
+        "Comments": "",
+        "Ward": "3",
+        "Precinct": "FIRE"
+    },
+    {
+        "Registration Date": "6-Jul-30",
+        "Last Name": "Chissell",
+        "First Name": "Connie B",
+        "Birthdate": "1901",
+        "Occupation": "housewife",
+        "Address": "417 N Fayette",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -3819,24 +3852,26 @@
     {
         "Registration Date": "16-Jul-30",
         "Last Name": "Chissell",
-        "First Name": "C B Mrs",
+        "First Name": "Connie B.",
         "Birthdate": "6-Jul-1901",
         "Occupation": "housewife",
         "Address": "521 S Royal",
         "Comments": "",
         "Ward": "1",
-        "Precinct": "ARM"
+        "Precinct": "ARM",
+        "Modern Comments": "Changed First Name to match another entry with same name and birth year"
     },
     {
         "Registration Date": "6-Jul-30",
         "Last Name": "Chissell",
         "First Name": "Connie B",
         "Birthdate": "1901",
-        "Occupation": "housewife",
-        "Address": "521 N Royal/417 N Fayette",
+        "Occupation": "6-Jul-1901",
+        "Address": "417 N Fayette",
         "Comments": "",
         "Ward": "3",
-        "Precinct": "ODD"
+        "Precinct": "ODD",
+        "Modern Comments": "Changed Birthdate to match another entry with same name and birth year"
     },
     {
         "Registration Date": "17-Jul-40",
@@ -4191,7 +4226,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "5-Apr-38/22-Mar-46",
+        "Registration Date": "22-Mar-46",
         "Last Name": "Cole",
         "First Name": "John C",
         "Birthdate": "1910",
@@ -4199,7 +4234,8 @@
         "Address": "414 S Royal",
         "Comments": "",
         "Ward": "1",
-        "Precinct": "ARM"
+        "Precinct": "ARM",
+        "Modern Comments": "Removed 5-Apr-38 from Registration Date because this is handled in separate entry."
     },
     {
         "Registration Date": "5-Apr-38",
@@ -7326,7 +7362,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "2-Apr-40/3-May-46",
+        "Registration Date": "3-May-46",
         "Last Name": "Garrett",
         "First Name": "Isaac",
         "Birthdate": "1906",
@@ -8074,28 +8110,6 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "4-May-46/1-Dec-48",
-        "Last Name": "Gunner",
-        "First Name": "Luther W",
-        "Birthdate": "1883",
-        "Occupation": "huckster",
-        "Address": "324 S Patrick",
-        "Comments": "",
-        "Ward": "4",
-        "Precinct": "LEE"
-    },
-    {
-        "Registration Date": "4-May-46/1-Dec-48",
-        "Last Name": "Gunner",
-        "First Name": "Luther W",
-        "Birthdate": "1883",
-        "Occupation": "huckster",
-        "Address": "324 S Patrick",
-        "Comments": "",
-        "Ward": "4",
-        "Precinct": "FRND"
-    },
-    {
         "Registration Date": "4-May-46",
         "Last Name": "Gunner",
         "First Name": "Luther W",
@@ -8105,6 +8119,30 @@
         "Comments": "",
         "Ward": "1",
         "Precinct": "ARM"
+    },
+    {
+        "Registration Date": "1-Dec-48",
+        "Last Name": "Gunner",
+        "First Name": "Luther W",
+        "Birthdate": "4-Dec-1883",
+        "Occupation": "huckster",
+        "Address": "324 S Patrick",
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "LEE",
+        "Modern Comments": "Pulled Birthdate from another Luther Gunner record"
+    },
+    {
+        "Registration Date": "1-Dec-48",
+        "Last Name": "Gunner",
+        "First Name": "Luther W",
+        "Birthdate": "4-Dec-1883",
+        "Occupation": "huckster",
+        "Address": "324 S Patrick",
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "FRND",
+        "Modern Comments": "Pulled Birthdate from another Luther Gunner record"
     },
     {
         "Registration Date": "30-Mar-45",
@@ -8231,12 +8269,13 @@
         "Registration Date": "2-Jul-48",
         "Last Name": "Hamilton",
         "First Name": "Queen E",
-        "Birthdate": "1910",
+        "Birthdate": "14-Dec-1910",
         "Occupation": "housewife",
         "Address": "613 S Alfred",
         "Comments": "",
         "Ward": "4",
-        "Precinct": "LEE"
+        "Precinct": "LEE",
+        "Modern Comments": "Pulled Birthdate from another Queen E Hamilton record"
     },
     {
         "Registration Date": "2-Jul-48",
@@ -8431,7 +8470,18 @@
         "First Name": "John",
         "Birthdate": "1895",
         "Occupation": "bricklayer",
-        "Address": "817 Wolfe/803 Gibbon",
+        "Address": "817 Wolfe",
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "FRND"
+    },
+    {
+        "Registration Date": "7-Oct-16",
+        "Last Name": "Harris",
+        "First Name": "John",
+        "Birthdate": "1895",
+        "Occupation": "bricklayer",
+        "Address": "803 Gibbon",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -8607,7 +8657,7 @@
         "First Name": "Joseph Jr",
         "Birthdate": "1881",
         "Occupation": "insurance agent",
-        "Address": "826 Queen/710 Pendleton",
+        "Address": "826 Queen",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -8811,7 +8861,18 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "29-Nov-35/30-Apr-46",
+        "Registration Date": "29-Nov-35",
+        "Last Name": "Hill",
+        "First Name": "Herman A",
+        "Birthdate": "1912",
+        "Occupation": "insurance",
+        "Address": "311 N Alfred",
+        "Comments": "",
+        "Ward": "3",
+        "Precinct": "FIRE"
+    },
+    {
+        "Registration Date": "30-Apr-46",
         "Last Name": "Hill",
         "First Name": "Herman A",
         "Birthdate": "1912",
@@ -9446,18 +9507,20 @@
         "Address": "427 Oronoco",
         "Comments": "",
         "Ward": "1",
-        "Precinct": "CITY"
+        "Precinct": "CITY",
+        "Modern Comments": "Changed 8-???-1915 to 8-1-1915 to have a clean date."
     },
     {
-        "Registration Date": "4-Aug-42/6-Jul-46",
+        "Registration Date": "6-Jul-46",
         "Last Name": "Howell",
         "First Name": "Thomas E",
-        "Birthdate": "1915",
+        "Birthdate": "8-???-1915",
         "Occupation": "laborer",
         "Address": "528 N Columbus",
         "Comments": "",
         "Ward": "3",
-        "Precinct": "FIRE"
+        "Precinct": "FIRE",
+        "Modern Comments": "Pulled Birthdate from another Thomas E Howell record. Changed 8-???-1915 to 8-1-1915 to have a clean date."
     },
     {
         "Registration Date": "11-Sep-32",
@@ -10351,17 +10414,6 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "12-Apr-49/11-Dec-42",
-        "Last Name": "Jackson",
-        "First Name": "Wicklef",
-        "Birthdate": "1897",
-        "Occupation": "laborer",
-        "Address": "627 S St Asaph",
-        "Comments": "",
-        "Ward": "1",
-        "Precinct": "ARM"
-    },
-    {
         "Registration Date": "11-Dec-42",
         "Last Name": "Jackson",
         "First Name": "Wicklef",
@@ -10371,6 +10423,17 @@
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
+    },
+    {
+        "Registration Date": "12-Apr-49",
+        "Last Name": "Jackson",
+        "First Name": "Wicklef",
+        "Birthdate": "1897",
+        "Occupation": "laborer",
+        "Address": "627 S St Asaph",
+        "Comments": "",
+        "Ward": "1",
+        "Precinct": "ARM"
     },
     {
         "Registration Date": "29-Apr-44",
@@ -11044,18 +11107,19 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "29-Jul-41/21-Jun-48",
+        "Registration Date": "21-Jun-48",
         "Last Name": "Jones",
         "First Name": "Etheridge",
-        "Birthdate": "29-Jul-1941",
+        "Birthdate": "1909",
         "Occupation": "laborer",
-        "Address": "?17 Wolfe",
+        "Address": "917 Wolfe",
         "Comments": "",
         "Ward": "4",
-        "Precinct": "FRND"
+        "Precinct": "FRND",
+        "Modern Comments": "Replaced Birthday transcription error with birthdate from another entry."
     },
     {
-        "Registration Date": "29-Jul-41/21-Jun-48",
+        "Registration Date": "21-Jun-48",
         "Last Name": "Jones",
         "First Name": "Etheridge",
         "Birthdate": "1909",
@@ -11066,26 +11130,28 @@
         "Precinct": "LEE"
     },
     {
-        "Registration Date": "26-Apr-47/21-Jun-49",
+        "Registration Date": "21-Jun-49",
         "Last Name": "Jones",
         "First Name": "Frederick A",
-        "Birthdate": "1902",
+        "Birthdate": "10-Jun-1902",
         "Occupation": "electric crane operator",
         "Address": "810 Columbus",
         "Comments": "",
         "Ward": "3",
-        "Precinct": "FIRE"
+        "Precinct": "FIRE",
+        "Modern Comments": "Replaced Birthday transcription error with birthdate from another entry."
     },
     {
         "Registration Date": "26-Apr-47",
         "Last Name": "Jones",
         "First Name": "Frederick A",
-        "Birthdate": "1902",
+        "Birthdate": "10-Jun-1902",
         "Occupation": "electric crane operator",
         "Address": "811 Duke",
         "Comments": "",
         "Ward": "4",
-        "Precinct": "LEE"
+        "Precinct": "LEE",
+        "Modern Comments": "Replaced Birthday transcription error with birthdate from another entry."
     },
     {
         "Registration Date": "26-Apr-47",
@@ -12727,7 +12793,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "26-Mar-46/4-Oct-40",
+        "Registration Date": "26-Mar-46",
         "Last Name": "Lucas",
         "First Name": "Leslie O",
         "Birthdate": "1910",
@@ -13145,7 +13211,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "3-Oct-40/1-Dec-51",
+        "Registration Date": "1-Dec-51",
         "Last Name": "Mackey",
         "First Name": "Nelson",
         "Birthdate": "1907",
@@ -13365,23 +13431,24 @@
         "Precinct": "ODD"
     },
     {
+        "Registration Date": "4-Dec-43",
+        "Last Name": "Majors",
+        "First Name": "Isabel N",
+        "Birthdate": "4-Feb-1893",
+        "Occupation": "maid",
+        "Address": "208 N Payne",
+        "Comments": "",
+        "Ward": "3",
+        "Precinct": "FIRE",
+        "Modern Comments": "Changed Majors/Michie to Majors, assuming that Michie is the maiden name."
+    },
+    {
         "Registration Date": "2-Dec-47",
         "Last Name": "Majors",
         "First Name": "Sherman",
         "Birthdate": "1894",
         "Occupation": "fireman",
         "Address": "527 N Columbus",
-        "Comments": "",
-        "Ward": "3",
-        "Precinct": "FIRE"
-    },
-    {
-        "Registration Date": "4-Dec-43",
-        "Last Name": "Majors/Michie",
-        "First Name": "Isabel N",
-        "Birthdate": "4-Feb-1893",
-        "Occupation": "maid",
-        "Address": "208 N Payne",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -13541,7 +13608,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "20-Mar-40/12-Jan-48",
+        "Registration Date": "12-Jan-48",
         "Last Name": "Massie",
         "First Name": "James W",
         "Birthdate": "1899",
@@ -13618,7 +13685,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "20-Mar-40/12-Jan-48",
+        "Registration Date": "12-Jan-48",
         "Last Name": "Massie",
         "First Name": "Sarah",
         "Birthdate": "1903",
@@ -13788,7 +13855,7 @@
         "First Name": "Richard M",
         "Birthdate": "1900",
         "Occupation": "laborer",
-        "Address": "404 Gibbon/317 N Patrick",
+        "Address": "404 Gibbon",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -14465,7 +14532,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "18-Nov-47/27-Dec-49",
+        "Registration Date": "27-Dec-49",
         "Last Name": "Mitchell",
         "First Name": "Thomas",
         "Birthdate": "1895",
@@ -22135,12 +22202,13 @@
         "Registration Date": "1-May-47/27-Dec-49",
         "Last Name": "Willis",
         "First Name": "Henry",
-        "Birthdate": "1911",
+        "Birthdate": "11-Apr-1911",
         "Occupation": "govt employee",
         "Address": "315 S Columbus",
         "Comments": "",
         "Ward": "4",
-        "Precinct": "LEE"
+        "Precinct": "LEE",
+        "Modern Comments": "Changed Birthdate to match another entry with same name and birth date"
     },
     {
         "Registration Date": "26-Mar-32",
