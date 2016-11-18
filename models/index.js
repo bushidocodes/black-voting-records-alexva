@@ -19,7 +19,7 @@ var Record = db.define('page', {
         allowNull: false
     },
     birthDate: {
-        type: Sequelize.STRING, // DATE?
+        type: Sequelize.DATE,
         allowNull: false
     },
     occupation: {
@@ -31,11 +31,11 @@ var Record = db.define('page', {
         allowNull: false
     },
     registrationDate: {
-        type: Sequelize.STRING,  // DATE?
+        type: Sequelize.DATE,
         allowNull: false
     },
     ward: {
-        type: Sequelize.ENUM(1, 2, 3, 4),
+        type: Sequelize.INTEGER, //(1, 2, 3, 4),
         allowNull: false
     },
     precinct: {
@@ -46,6 +46,12 @@ var Record = db.define('page', {
         type: Sequelize.TEXT,
         allowNull: true
     }
+    // TODO: Add geography value that stores the latlng returned by a geolocation call to Google Maps Geocoding API.
+    // https://developers.google.com/maps/documentation/geocoding/intro
+    // ,
+    // geography: {
+    //     type: Sequelize.
+    // }
 },
     {
         classMethods: {
