@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "pg": "^6.1.0",
     "sequelize": "^3.26.0"
   }
 }

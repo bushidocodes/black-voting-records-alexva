@@ -1810,9 +1810,9 @@
         "Birthdate": "---",
         "Occupation": "---",
         "Address": "",
-        "Comments": "4",
-        "Ward": "FRND",
-        "Precinct": ""
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "FRND"
     },
     {
         "Registration Date": "4-Oct-28",
@@ -3019,10 +3019,10 @@
         "First Name": "Leonia",
         "Birthdate": "---",
         "Occupation": "",
-        "Address": "4",
-        "Comments": "FRND",
-        "Ward": "",
-        "Precinct": ""
+        "Address": "",
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "FRND"
     },
     {
         "Registration Date": "29-Jul-41",
@@ -11435,9 +11435,9 @@
         "Birthdate": "---",
         "Occupation": "---",
         "Address": "Box 396, Balboa Terrace   Zone Panama",
-        "Comments": "3",
-        "Ward": "ODD",
-        "Precinct": ""
+        "Comments": "",
+        "Ward": "3",
+        "Precinct": "ODD"
     },
     {
         "Registration Date": "5-Jul-46",
@@ -15834,10 +15834,10 @@
         "First Name": "Maud D",
         "Birthdate": "1908",
         "Occupation": "",
-        "Address": "1",
-        "Comments": "CITY",
-        "Ward": "",
-        "Precinct": ""
+        "Address": "",
+        "Comments": "",
+        "Ward": "1",
+        "Precinct": "CITY"
     },
     {
         "Registration Date": "21-Oct-36",
@@ -22589,9 +22589,9 @@
         "Birthdate": "12-Dec-1903",
         "Occupation": "Natl Youth Admin, Homemaking Center",
         "Address": "803 Gibbon",
-        "Comments": "4",
-        "Ward": "FRND",
-        "Precinct": ""
+        "Comments": "",
+        "Ward": "4",
+        "Precinct": "FRND"
     },
     {
         "Registration Date": "3-Aug-43",
@@ -22879,5 +22879,4 @@
         "Ward": "3",
         "Precinct": "ODD"
     }
->>>>>>> expresssequelize:models/records.json
 ]
