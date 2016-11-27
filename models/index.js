@@ -118,7 +118,7 @@ function cleanUpJSON() {
         record.address = record["Address"];
         delete record["Address"];
 
-        if (record.address === '---' || record.address === '---' || record.address === '--'|| record.address === 'not shown' || record.address === 'city' || record.address === '???' || record.address === 'City') {
+        if (record.address === '---' || record.address === '---' || record.address === '--' || record.address === 'not shown' || record.address === 'city' || record.address === '???' || record.address === 'City') {
             record.address = null;
         }
 
