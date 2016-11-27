@@ -3514,7 +3514,7 @@
         "First Name": "Eva",
         "Birthdate": "24-Dec-1890",
         "Occupation": "domestic",
-        "Address": "632 S Columbus/813 Gibbon",
+        "Address": "632 S Columbus, 813 Gibbon",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -3778,7 +3778,7 @@
         "First Name": "Connie B",
         "Birthdate": "1901",
         "Occupation": "housewife",
-        "Address": "521 N Royal/417 N Fayette",
+        "Address": "521 N Royal, 417 N Fayette",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -3833,7 +3833,7 @@
         "First Name": "Connie B",
         "Birthdate": "1901",
         "Occupation": "housewife",
-        "Address": "521 N Royal/417 N Fayette",
+        "Address": "521 N Royal, 417 N Fayette",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -4191,7 +4191,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "5-Apr-38/22-Mar-46",
+        "Registration Date": "5-Apr-38, 22-Mar-46",
         "Last Name": "Cole",
         "First Name": "John C",
         "Birthdate": "1910",
@@ -4218,7 +4218,7 @@
         "First Name": "Albert Edward",
         "Birthdate": "31-Mar-1923",
         "Occupation": "classified laborer",
-        "Address": "225 N West/308 N Fayette",
+        "Address": "225 N West, 308 N Fayette",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -5214,7 +5214,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "30-Apr-46/3-Mar-49",
+        "Registration Date": "30-Apr-46, 3-Mar-49",
         "Last Name": "Day",
         "First Name": "Ferdinand Q",
         "Birthdate": "1918",
@@ -5258,7 +5258,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "1-Oct-20/3-Dec-47",
+        "Registration Date": "1-Oct-20, 3-Dec-47",
         "Last Name": "Day",
         "First Name": "Susie Luckett",
         "Birthdate": "1885",
@@ -5428,7 +5428,7 @@
         "First Name": "William H",
         "Birthdate": "26-Aug-1921",
         "Occupation": "machinist",
-        "Address": "529 N Columbus/307 N Fayette",
+        "Address": "529 N Columbus, 307 N Fayette",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -5577,7 +5577,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "1-Oct-20/2-Jul-49",
+        "Registration Date": "1-Oct-20, 2-Jul-49",
         "Last Name": "Dixon",
         "First Name": "Cassie V",
         "Birthdate": "1898",
@@ -5599,7 +5599,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "23-Sep-19/8-Oct-32",
+        "Registration Date": "23-Sep-19, 8-Oct-32",
         "Last Name": "Dixon",
         "First Name": "Edward",
         "Birthdate": "1880",
@@ -7326,7 +7326,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "2-Apr-40/3-May-46",
+        "Registration Date": "2-Apr-40, 3-May-46",
         "Last Name": "Garrett",
         "First Name": "Isaac",
         "Birthdate": "1906",
@@ -8074,7 +8074,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "4-May-46/1-Dec-48",
+        "Registration Date": "4-May-46, 1-Dec-48",
         "Last Name": "Gunner",
         "First Name": "Luther W",
         "Birthdate": "1883",
@@ -8085,7 +8085,7 @@
         "Precinct": "LEE"
     },
     {
-        "Registration Date": "4-May-46/1-Dec-48",
+        "Registration Date": "4-May-46, 1-Dec-48",
         "Last Name": "Gunner",
         "First Name": "Luther W",
         "Birthdate": "1883",
@@ -8431,7 +8431,7 @@
         "First Name": "John",
         "Birthdate": "1895",
         "Occupation": "bricklayer",
-        "Address": "817 Wolfe/803 Gibbon",
+        "Address": "817 Wolfe, 803 Gibbon",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -8607,7 +8607,7 @@
         "First Name": "Joseph Jr",
         "Birthdate": "1881",
         "Occupation": "insurance agent",
-        "Address": "826 Queen/710 Pendleton",
+        "Address": "826 Queen, 710 Pendleton",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -8811,7 +8811,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "29-Nov-35/30-Apr-46",
+        "Registration Date": "29-Nov-35, 30-Apr-46",
         "Last Name": "Hill",
         "First Name": "Herman A",
         "Birthdate": "1912",
@@ -9449,7 +9449,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "4-Aug-42/6-Jul-46",
+        "Registration Date": "4-Aug-42, 6-Jul-46",
         "Last Name": "Howell",
         "First Name": "Thomas E",
         "Birthdate": "1915",
@@ -10351,7 +10351,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "12-Apr-49/11-Dec-42",
+        "Registration Date": "12-Apr-49, 11-Dec-42",
         "Last Name": "Jackson",
         "First Name": "Wicklef",
         "Birthdate": "1897",
@@ -11044,7 +11044,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "29-Jul-41/21-Jun-48",
+        "Registration Date": "29-Jul-41, 21-Jun-48",
         "Last Name": "Jones",
         "First Name": "Etheridge",
         "Birthdate": "29-Jul-1941",
@@ -11055,7 +11055,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "29-Jul-41/21-Jun-48",
+        "Registration Date": "29-Jul-41, 21-Jun-48",
         "Last Name": "Jones",
         "First Name": "Etheridge",
         "Birthdate": "1909",
@@ -11066,7 +11066,7 @@
         "Precinct": "LEE"
     },
     {
-        "Registration Date": "26-Apr-47/21-Jun-49",
+        "Registration Date": "26-Apr-47, 21-Jun-49",
         "Last Name": "Jones",
         "First Name": "Frederick A",
         "Birthdate": "1902",
@@ -11796,7 +11796,7 @@
         "Last Name": "Lassister",
         "First Name": "Carrol",
         "Birthdate": "15-Jan-1908",
-        "Occupation": "squad leader/quartermaster",
+        "Occupation": "squad leader & quartermaster",
         "Address": "619 1/2 N West",
         "Comments": "",
         "Ward": "3",
@@ -12727,7 +12727,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "26-Mar-46/4-Oct-40",
+        "Registration Date": "26-Mar-46, 4-Oct-40",
         "Last Name": "Lucas",
         "First Name": "Leslie O",
         "Birthdate": "1910",
@@ -13145,7 +13145,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "3-Oct-40/1-Dec-51",
+        "Registration Date": "3-Oct-40, 1-Dec-51",
         "Last Name": "Mackey",
         "First Name": "Nelson",
         "Birthdate": "1907",
@@ -13541,7 +13541,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "20-Mar-40/12-Jan-48",
+        "Registration Date": "20-Mar-40, 12-Jan-48",
         "Last Name": "Massie",
         "First Name": "James W",
         "Birthdate": "1899",
@@ -13618,7 +13618,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "20-Mar-40/12-Jan-48",
+        "Registration Date": "20-Mar-40, 12-Jan-48",
         "Last Name": "Massie",
         "First Name": "Sarah",
         "Birthdate": "1903",
@@ -13744,7 +13744,7 @@
         "First Name": "Mildred",
         "Birthdate": "1906",
         "Occupation": "housewife",
-        "Address": "317 N Patrick/404 Gibbon",
+        "Address": "317 N Patrick, 404 Gibbon",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -13788,7 +13788,7 @@
         "First Name": "Richard M",
         "Birthdate": "1900",
         "Occupation": "laborer",
-        "Address": "404 Gibbon/317 N Patrick",
+        "Address": "404 Gibbon, 317 N Patrick",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -14465,7 +14465,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "18-Nov-47/27-Dec-49",
+        "Registration Date": "18-Nov-47, 27-Dec-49",
         "Last Name": "Mitchell",
         "First Name": "Thomas",
         "Birthdate": "1895",
@@ -14503,7 +14503,7 @@
         "First Name": "Sarah C",
         "Birthdate": "1913",
         "Occupation": "teacher",
-        "Address": "813 Princess/314 N Patrick",
+        "Address": "813 Princess, 314 N Patrick",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -14971,7 +14971,7 @@
         "Precinct": "ARM"
     },
     {
-        "Registration Date": "2-Aug-38/4-Dec-47",
+        "Registration Date": "2-Aug-38, 4-Dec-47",
         "Last Name": "Nelson",
         "First Name": "Hannah",
         "Birthdate": "1883",
@@ -14982,7 +14982,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "4-Oct-46/3-May-47",
+        "Registration Date": "4-Oct-46, 3-May-47",
         "Last Name": "Nelson",
         "First Name": "Isaac N",
         "Birthdate": "9-Jun-1924",
@@ -14993,7 +14993,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "4-Oct-46/3-May-47",
+        "Registration Date": "4-Oct-46, 3-May-47",
         "Last Name": "Nelson",
         "First Name": "Isaac N",
         "Birthdate": "9-Jun-1924",
@@ -15268,7 +15268,7 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "2-Aug-39/13-Jun-46",
+        "Registration Date": "2-Aug-39, 13-Jun-46",
         "Last Name": "Owens",
         "First Name": "Robert E",
         "Birthdate": "1902",
@@ -16247,7 +16247,7 @@
         "Precinct": "LEE"
     },
     {
-        "Registration Date": "3-Jul-48/19-Jul-48",
+        "Registration Date": "3-Jul-48, 19-Jul-48",
         "Last Name": "Price",
         "First Name": "Mabel",
         "Birthdate": "11-Dec-1908",
@@ -16412,7 +16412,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "1-Oct-20/28-Jun-46",
+        "Registration Date": "1-Oct-20, 28-Jun-46",
         "Last Name": "Raby",
         "First Name": "Georgie F Archer",
         "Birthdate": "1899",
@@ -16544,7 +16544,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "29-Sep-20/5-Oct-47",
+        "Registration Date": "29-Sep-20, 5-Oct-47",
         "Last Name": "Redd",
         "First Name": "James D",
         "Birthdate": "1906",
@@ -16566,7 +16566,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "29-Sep-20/4-Oct-47",
+        "Registration Date": "29-Sep-20, 4-Oct-47",
         "Last Name": "Redd",
         "First Name": "Mary E",
         "Birthdate": "1883",
@@ -16912,7 +16912,7 @@
         "First Name": "Ossie",
         "Birthdate": "1912",
         "Occupation": "janitor",
-        "Address": "719 N West/1012 Cameron",
+        "Address": "719 N West, 1012 Cameron",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -18232,7 +18232,7 @@
         "First Name": "John A",
         "Birthdate": "1913",
         "Occupation": "cleaner",
-        "Address": "622 1/2 N Alfred/425 N Patrick",
+        "Address": "622 1/2 N Alfred, 425 N Patrick",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -18326,7 +18326,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "4-Oct-40/3-Oct-44",
+        "Registration Date": "4-Oct-40, 3-Oct-44",
         "Last Name": "Stewart",
         "First Name": "Carolyn H",
         "Birthdate": "17-Dec-1920",
@@ -18348,7 +18348,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "30-Jul-39/3-Oct-44",
+        "Registration Date": "30-Jul-39, 3-Oct-44",
         "Last Name": "Stewart",
         "First Name": "Colston R Jr",
         "Birthdate": "22-Jun-1913",
@@ -18832,7 +18832,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "1-Oct-02/18-Jul-21",
+        "Registration Date": "1-Oct-02, 18-Jul-21",
         "Last Name": "Tancil",
         "First Name": "Herbert P",
         "Birthdate": "1873",
@@ -18843,7 +18843,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "19/Nov-49/6-Mar-53",
+        "Registration Date": "19-Nov-49, 6-Mar-53",
         "Last Name": "Tancil",
         "First Name": "Herbert Pike III",
         "Birthdate": "1921",
@@ -18854,7 +18854,7 @@
         "Precinct": "LEE"
     },
     {
-        "Registration Date": "1-Oct-02/18-Sep-21",
+        "Registration Date": "1-Oct-02, 18-Sep-21",
         "Last Name": "Tancil",
         "First Name": "Herbert Jr",
         "Birthdate": "1873",
@@ -18953,12 +18953,12 @@
         "Precinct": "CITY"
     },
     {
-        "Registration Date": "5-May-44/10-Apr-46",
+        "Registration Date": "5-May-44, 10-Apr-46",
         "Last Name": "Taylor",
         "First Name": "Charles L",
         "Birthdate": "1911",
         "Occupation": "trucker driver",
-        "Address": "1005 Madison/406 N Alfred",
+        "Address": "1005 Madison, 406 N Alfred",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -18980,7 +18980,7 @@
         "First Name": "Dorothy E",
         "Birthdate": "1914",
         "Occupation": "housewife",
-        "Address": "1005 Madison/406 N Alfred",
+        "Address": "1005 Madison, 406 N Alfred",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -20240,7 +20240,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "31-Jul-41/2-May-53",
+        "Registration Date": "31-Jul-41, 2-May-53",
         "Last Name": "Tyler",
         "First Name": "Winnie H",
         "Birthdate": "1892",
@@ -20405,7 +20405,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "29-Apr-46/16-Jul-53",
+        "Registration Date": "29-Apr-46, 16-Jul-53",
         "Last Name": "Wair",
         "First Name": "Clinton Thomas",
         "Birthdate": "1917",
@@ -20867,7 +20867,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "1-May-06/1-Jul-49",
+        "Registration Date": "1-May-06, 1-Jul-49",
         "Last Name": "Waterson",
         "First Name": "Clara",
         "Birthdate": "1906",
@@ -21065,7 +21065,7 @@
         "Precinct": "ODD"
     },
     {
-        "Registration Date": "June-44/May-34",
+        "Registration Date": "June-44, May-34",
         "Last Name": "Webb",
         "First Name": "Phillip",
         "Birthdate": "1884",
@@ -21081,7 +21081,7 @@
         "First Name": "Phillip",
         "Birthdate": "1884",
         "Occupation": "salesman",
-        "Address": "416 N Patrick/813 Gibbon",
+        "Address": "416 N Patrick, 813 Gibbon",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -21191,7 +21191,7 @@
         "First Name": "James L",
         "Birthdate": "1900",
         "Occupation": "merchant",
-        "Address": "728 N Patrick/1002 Madison",
+        "Address": "728 N Patrick, 1002 Madison",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -21487,7 +21487,7 @@
         "Last Name": "White",
         "First Name": "Wylie S",
         "Birthdate": "1917",
-        "Occupation": "cleaner/dyeing",
+        "Occupation": "cleaner & dyeing",
         "Address": "630 S St Asaph",
         "Comments": "",
         "Ward": "1",
@@ -22077,7 +22077,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "5-Dec-46/20-Nov-48",
+        "Registration Date": "5-Dec-46, 20-Nov-48",
         "Last Name": "Willis",
         "First Name": "Alberta Moore",
         "Birthdate": "1908",
@@ -22088,7 +22088,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "5-Dec-46/3-Dec-51",
+        "Registration Date": "5-Dec-46, 3-Dec-51",
         "Last Name": "Willis",
         "First Name": "Alberta Moore",
         "Birthdate": "1908",
@@ -22121,7 +22121,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "1-May-47/27-Dec-49",
+        "Registration Date": "1-May-47, 27-Dec-49",
         "Last Name": "Willis",
         "First Name": "Henry",
         "Birthdate": "11-Apr-1911",
@@ -22132,7 +22132,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "1-May-47/27-Dec-49",
+        "Registration Date": "1-May-47, 27-Dec-49",
         "Last Name": "Willis",
         "First Name": "Henry",
         "Birthdate": "1911",
@@ -22627,7 +22627,7 @@
         "Precinct": "FRND"
     },
     {
-        "Registration Date": "1-May-47/27-Dec-49",
+        "Registration Date": "1-May-47, 27-Dec-49",
         "Last Name": "Wright",
         "First Name": "Eunice I",
         "Birthdate": "5-Apr-1924",
@@ -22671,7 +22671,7 @@
         "Precinct": "FIRE"
     },
     {
-        "Registration Date": "7-Sep-27/12-June-50",
+        "Registration Date": "7-Sep-27, 12-June-50",
         "Last Name": "Yancey",
         "First Name": "Edlow D",
         "Birthdate": "6-Apr-1890",
