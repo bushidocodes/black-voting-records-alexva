@@ -1806,11 +1806,11 @@
     {
         "Registration Date": "20-Jul-40",
         "Last Name": "Bowden",
-        "First Name": "Cecile (off old book)",
+        "First Name": "Cecile",
         "Birthdate": "---",
         "Occupation": "---",
         "Address": "",
-        "Comments": "",
+        "Comments": "off old book",
         "Ward": "4",
         "Precinct": "FRND"
     },
@@ -2663,7 +2663,7 @@
     },
     {
         "Registration Date": "8-Mar-52",
-        "Last Name": "Brown Jr.",
+        "Last Name": "Brown Jr",
         "First Name": "Leonard",
         "Birthdate": "9-Dec-1930",
         "Occupation": "student",
@@ -6459,7 +6459,7 @@
     {
         "Registration Date": "4-May-29",
         "Last Name": "Felton",
-        "First Name": "Perry R Jr.",
+        "First Name": "Perry R Jr",
         "Birthdate": "13-Dec-1896",
         "Occupation": "messenger",
         "Address": "1001 Oronoco",
@@ -13744,7 +13744,7 @@
         "First Name": "Mildred",
         "Birthdate": "1906",
         "Occupation": "housewife",
-        "Address": "317 N Patrick@404 Gibbon",
+        "Address": "317 N Patrick/404 Gibbon",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"

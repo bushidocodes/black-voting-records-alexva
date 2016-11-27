@@ -1,4 +1,5 @@
 `use strict`
 var models = require('./models');
 
-models.cleanUpJSON();
+// models.cleanUpJSON();
+models.generateDatabase();
