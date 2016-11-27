@@ -4,12 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start[prod]": "nodemon app.js",
+    "start[dev]": "nodemon app.js force happy super party",
+    "start": "npm run-script start[dev]"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
     "pg": "^6.1.0",
     "sequelize": "^3.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }

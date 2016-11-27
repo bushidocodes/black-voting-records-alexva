@@ -1721,7 +1721,7 @@
         "First Name": "James",
         "Birthdate": "1889",
         "Occupation": "mail porter",
-        "Address": "22? S West",
+        "Address": "222 S West",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -2843,7 +2843,7 @@
         "First Name": "Jettie Pearl",
         "Birthdate": "1902",
         "Occupation": "housewife",
-        "Address": "612 ---",
+        "Address": "612 S Washington",
         "Comments": "",
         "Ward": "4",
         "Precinct": "LEE"
@@ -2854,7 +2854,7 @@
         "First Name": "Jettie Pearl",
         "Birthdate": "950",
         "Occupation": "housewife",
-        "Address": "612 ---",
+        "Address": "612 S Washington",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -5164,7 +5164,7 @@
         "First Name": "Celeste",
         "Birthdate": "1916",
         "Occupation": "housewife",
-        "Address": "??? Oronoco",
+        "Address": "927 Oronoco",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -5626,7 +5626,7 @@
         "First Name": "Elease Traner",
         "Birthdate": "1888",
         "Occupation": "domestic",
-        "Address": "--- N Patrick",
+        "Address": "324 N Patrick",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -5637,7 +5637,7 @@
         "First Name": "Elease Travers",
         "Birthdate": "1888",
         "Occupation": "domestic",
-        "Address": "--- N Patrick",
+        "Address": "324 N Patrick",
         "Comments": "",
         "Ward": "3",
         "Precinct": "FIRE"
@@ -11049,7 +11049,7 @@
         "First Name": "Etheridge",
         "Birthdate": "29-Jul-1941",
         "Occupation": "laborer",
-        "Address": "?17 Wolfe",
+        "Address": "917 Wolfe",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
