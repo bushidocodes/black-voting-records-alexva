@@ -1,6 +1,7 @@
 `use strict`
 var models = require('./models');
 
+const request = require('request');
 const express = require('express');
 const morgan = require('morgan');
 const db = require('./models/database');
@@ -15,7 +16,11 @@ let [nodeBin, appEntryPoint, ...args] = process.argv;
 // console.log(`process.argv contains ${process.argv[2]}`);
 console.log(`process.argv contains ${args}`);
 
-if (args.includes("force")) {
+if (args.includes("cacheAndGeocode")) {
+    console.log("caching Locations and running geocoding via Google APIs");
+    models.generateLocationCache();
+    
+} else if (args.includes("force")) {
     console.log("FORCE DETECTED: Blowing away DB, rebuilding, and serving");
     models.cleanUpJSON()
         .then(models.generateDatabase)

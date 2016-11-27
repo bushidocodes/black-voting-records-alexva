@@ -1435,7 +1435,7 @@
         "First Name": "James",
         "Birthdate": "19-Jan-1901",
         "Occupation": "laborer",
-        "Address": "RFD #2 Alexandria, VA",
+        "Address": "RFD #2 Alexandria VA",
         "Comments": "",
         "Ward": "2",
         "Precinct": "SEV"
@@ -1809,7 +1809,7 @@
         "First Name": "Cecile",
         "Birthdate": "---",
         "Occupation": "---",
-        "Address": "",
+        "Address": "---",
         "Comments": "off old book",
         "Ward": "4",
         "Precinct": "FRND"
@@ -6803,7 +6803,7 @@
         "First Name": "Pearl",
         "Birthdate": "1909",
         "Occupation": "general housework",
-        "Address": "Sem Box 629",
+        "Address": "Seminary Box 629",
         "Comments": "",
         "Ward": "4",
         "Precinct": "LEE"
@@ -7496,7 +7496,7 @@
         "First Name": "Thornton J",
         "Birthdate": "---",
         "Occupation": "---",
-        "Address": "Box 303, Lafayette Lane",
+        "Address": "Lafayette Lane Box 303",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -11434,7 +11434,7 @@
         "First Name": "Marion A",
         "Birthdate": "---",
         "Occupation": "---",
-        "Address": "Box 396, Balboa Terrace   Zone Panama",
+        "Address": "Box 396 Balboa Terrace Zone Panama",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -14030,7 +14030,7 @@
         "First Name": "Edwin J",
         "Birthdate": "---",
         "Occupation": "---",
-        "Address": "Veterans   Administration Hospital,",
+        "Address": "Veterans Administration Hospital",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -15658,7 +15658,7 @@
         "First Name": "Johnsie",
         "Birthdate": "28-Jun-1881",
         "Occupation": "retired",
-        "Address": "Route 2, Box 79",
+        "Address": "Route 2 Box 79",
         "Comments": "",
         "Ward": "2",
         "Precinct": "SEV"
@@ -15669,7 +15669,7 @@
         "First Name": "Juanita E",
         "Birthdate": "9-Jun-1927",
         "Occupation": "storekeeper",
-        "Address": "Route 2, Box 79",
+        "Address": "Route 2 Box 79",
         "Comments": "",
         "Ward": "2",
         "Precinct": "SEV"
@@ -15845,7 +15845,7 @@
         "First Name": "David W",
         "Birthdate": "---",
         "Occupation": "---",
-        "Address": "Jefferson Hotel, Richmond VA",
+        "Address": "Jefferson Hotel Richmond VA",
         "Comments": "",
         "Ward": "3",
         "Precinct": "ODD"
@@ -17143,7 +17143,7 @@
         "First Name": "George W",
         "Birthdate": "14-Mar-1881",
         "Occupation": "janitor",
-        "Address": "Wager Apt, N Fairfax",
+        "Address": "Wager Apt N Fairfax",
         "Comments": "",
         "Ward": "1",
         "Precinct": "CITY"
@@ -17539,7 +17539,7 @@
         "First Name": "E L",
         "Birthdate": "1861",
         "Occupation": "distiller",
-        "Address": "Alexandria, VA",
+        "Address": "Alexandria VA",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"
@@ -18969,7 +18969,7 @@
         "First Name": "Christine",
         "Birthdate": "22-Oct-1915",
         "Occupation": "housewife",
-        "Address": "Route 3, Box 118B",
+        "Address": "Route 3 Box 118B",
         "Comments": "",
         "Ward": "2",
         "Precinct": "SEV"
@@ -19178,7 +19178,7 @@
         "First Name": "William H",
         "Birthdate": "20-Jan-1913",
         "Occupation": "laborer",
-        "Address": "Route 3, Box 118B",
+        "Address": "Route 3 Box 118B",
         "Comments": "",
         "Ward": "2",
         "Precinct": "SEV"
@@ -21829,7 +21829,7 @@
         "First Name": "Jennie",
         "Birthdate": "1893",
         "Occupation": "not employed",
-        "Address": "Box 4B Alexandria",
+        "Address": "Alexandria Box 4B",
         "Comments": "",
         "Ward": "4",
         "Precinct": "FRND"

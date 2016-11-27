@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "cacheAndGeocode": "node app.js cacheAndGeocode",
     "start[prod]": "nodemon app.js",
     "start[dev]": "nodemon app.js force happy super party",
     "start": "npm run-script start[dev]"
@@ -12,9 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
     "pg": "^6.1.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
     "sequelize": "^3.26.0"
   },
   "devDependencies": {
