@@ -170,4 +170,4 @@ function generateLocationCache() {
         .catch((err) => { console.log(err); });
 };
 
-module.exports = { cleanUpJSON, generateDatabase, generateLocationCache };
+module.exports = { cleanUpJSON, generateDatabase, generateLocationCache, readJSON };
